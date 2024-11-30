@@ -4,7 +4,7 @@ import Slider1 from "../slider2.jpg"; // Ensure this path is correct
 export const Gallery = () => {
   return (
    <div id="ProductGallery" className="relative min-h-screen bg-gradient-to-r from-rose-100 to-teal-100 animate-gradient-flow p-7">
-    <h1 className="text-center text-5xl font-extrabold text-black">Our Jewellery Product</h1>
+    <h1 className="text-center text-3xl font-bold text-[#1A202C]">Our Jewellery Product</h1>
 
      
 
